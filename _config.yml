@@ -7,13 +7,13 @@
 
 # Site settings
 title: 금융빅데이터
-short_labname: ChungLab
-email: physi5logy@gmail.com
-logo: logo.png
+short_labname: FLAB
+email: marvinshin9@gmail.com
+logo: img-symbol.png
 description: > # 다음 줄에 연구실 소개 입력
-  ChungLab of Computational Neuroscience, Seoul National University; 서울대학교 치과대학 정지훈 교수 감각신경 연구실; Gehoon Chung;
+  Ajou University; 아주대학교 신문혁; Marvin Shin;
 baseurl: "" # the subpath of your site, e.g. /blog
-github_username:  ChungLab
+github_username:  MarvinData
 google-site-verification:
 
 # Build settings
